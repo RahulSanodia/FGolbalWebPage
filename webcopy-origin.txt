@@ -1,0 +1,440 @@
+Uri: https://n1.live/
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\index.htm
+Content Type: text/html
+
+Uri: https://n1.live/aboutus.asp
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\aboutus.asp.html
+Content Type: text/html
+
+Uri: https://n1.live/assets/css/all.min.css
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\css\all.min.css
+Content Type: text/css
+
+Uri: https://n1.live/assets/css/aos.css
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\css\aos.css
+Content Type: text/css
+
+Uri: https://n1.live/assets/css/bootstrap.min.css
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://n1.live/assets/css/n1live.css
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\css\n1live.css
+Content Type: text/css
+
+Uri: https://n1.live/assets/css/style.css
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\css\style.css
+Content Type: text/css
+
+Uri: https://n1.live/assets/css/swiper-bundle.min.css
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://n1.live/assets/images/banner/home1/1.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\banner\home1\1.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/banner/home1/3.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\banner\home1\3.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/banner/home1/4.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\banner\home1\4.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/contact/4.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\contact\4.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/document_img.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\document_img.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/favicon.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/footer/1.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\footer\1.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/footer/apple.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\footer\apple.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/footer/play.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\footer\play.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/header/1.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\header\1.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/header/2.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\header\2.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/home1.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\home1.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/home2.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\home2.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/home_img_1.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\home_img_1.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/icon/moon.svg
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\icon\moon.svg
+Content Type: image/svg+xml
+
+Uri: https://n1.live/assets/images/icon_1.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\icon_1.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/icon_2.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\icon_2.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/icon_3.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\icon_3.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/icon_4.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\icon_4.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/icon_5.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\icon_5.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/icon_6.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\icon_6.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/icon_7.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\icon_7.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/logo/logo.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\logo\logo.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/opportunities_1.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\opportunities_1.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/opportunities_2.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\opportunities_2.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/opportunities_3.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\opportunities_3.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/opportunities_4.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\opportunities_4.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/opportunities_5.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\opportunities_5.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/partner-logo/1.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\partner-logo\1.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/partner-logo/10.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\partner-logo\10.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/partner-logo/11.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\partner-logo\11.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/partner-logo/12.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\partner-logo\12.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/partner-logo/13.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\partner-logo\13.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/partner-logo/14.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\partner-logo\14.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/partner-logo/15.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\partner-logo\15.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/partner-logo/16.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\partner-logo\16.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/partner-logo/17.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\partner-logo\17.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/partner-logo/18.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\partner-logo\18.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/partner-logo/19.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\partner-logo\19.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/partner-logo/2.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\partner-logo\2.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/partner-logo/20.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\partner-logo\20.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/partner-logo/21.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\partner-logo\21.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/partner-logo/22.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\partner-logo\22.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/partner-logo/23.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\partner-logo\23.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/partner-logo/24.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\partner-logo\24.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/partner-logo/3.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\partner-logo\3.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/partner-logo/4.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\partner-logo\4.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/partner-logo/5.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\partner-logo\5.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/partner-logo/6.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\partner-logo\6.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/partner-logo/7.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\partner-logo\7.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/partner-logo/8.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\partner-logo\8.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/partner-logo/9.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\partner-logo\9.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/pay_logo_1.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\pay_logo_1.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/pay_logo_2.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\pay_logo_2.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/pay_logo_3.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\pay_logo_3.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/pay_logo_4.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\pay_logo_4.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/pay_logo_5.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\pay_logo_5.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/pay_logo_6.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\pay_logo_6.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/projects/1.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\projects\1.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/projects/2.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\projects\2.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/projects/3.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\projects\3.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/projects/4.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\projects\4.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/projects/5.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\projects\5.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/projects/6.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\projects\6.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/projects/7.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\projects\7.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/service/1.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\service\1.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/service/2.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\service\2.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/service/3.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\service\3.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/service/4.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\service\4.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/service/5.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\service\5.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/images/service/6.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\images\service\6.png
+Content Type: image/png
+
+Uri: https://n1.live/assets/js/all.min.js
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\js\all.min.js
+Content Type: application/javascript
+
+Uri: https://n1.live/assets/js/aos.js
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\js\aos.js
+Content Type: application/javascript
+
+Uri: https://n1.live/assets/js/bootstrap.bundle.min.js
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://n1.live/assets/js/custom.js
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\js\custom.js
+Content Type: application/javascript
+
+Uri: https://n1.live/assets/js/fslightbox.js
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\js\fslightbox.js
+Content Type: application/javascript
+
+Uri: https://n1.live/assets/js/purecounter_vanilla.js
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\js\purecounter_vanilla.js
+Content Type: application/javascript
+
+Uri: https://n1.live/assets/js/swiper-bundle.min.js
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://n1.live/assets/webfonts/fa-brands-400.ttf
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://n1.live/assets/webfonts/fa-brands-400.woff2
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\webfonts\fa-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://n1.live/assets/webfonts/fa-regular-400.ttf
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://n1.live/assets/webfonts/fa-regular-400.woff2
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\webfonts\fa-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://n1.live/assets/webfonts/fa-solid-900.ttf
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://n1.live/assets/webfonts/fa-solid-900.woff2
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\webfonts\fa-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: https://n1.live/assets/webfonts/fa-v4compatibility.ttf
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://n1.live/assets/webfonts/fa-v4compatibility.woff2
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\assets\webfonts\fa-v4compatibility.woff2
+Content Type: application/font-woff2
+
+Uri: https://n1.live/cdn-cgi/images/browser-bar.png?1376755637
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://n1.live/cdn-cgi/images/cf-icon-browser.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://n1.live/cdn-cgi/images/cf-icon-cloud.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://n1.live/cdn-cgi/images/cf-icon-error.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://n1.live/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://n1.live/cdn-cgi/images/cf-icon-ok.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://n1.live/cdn-cgi/images/cf-icon-server.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://n1.live/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://n1.live/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://n1.live/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://n1.live/cdn-cgi/l/email-protection
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://n1.live/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://n1.live/cdn-cgi/styles/cf.errors.css
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://n1.live/contactus.asp
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\contactus.asp.html
+Content Type: text/html
+
+Uri: https://n1.live/index.asp
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\index.asp.html
+Content Type: text/html
+
+Uri: https://n1.live/nrk_coin.asp
+File Name: J:\Web Work Gaura\F Global\Website\n1.live\nrk_coin.asp.html
+Content Type: text/html
+
